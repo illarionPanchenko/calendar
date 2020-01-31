@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da6bef26-8532-4aa6-9af9-5daf2cdd37eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="calendar" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580404349852</updated>
-      <workItem from="1580404351176" duration="27150000" />
+      <workItem from="1580404351176" duration="28223000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580434168284</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580434168284</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gh pages">
+      <created>1580434936684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580434936684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,25 +112,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="gh pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580434070803">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1580434070803" />
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1580434166196">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1580434935827">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1580434166196" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1580434935827" />
     <state x="562" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1580434219466">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="562" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1360.728@0.0.1360.728" timestamp="1580434219466" />
-    <state x="272" y="86" key="Vcs.Push.Dialog.v2" timestamp="1580434186769">
+    <state x="272" y="86" key="Vcs.Push.Dialog.v2" timestamp="1580434938192">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="86" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1580434186769" />
+    <state x="272" y="86" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1580434938192" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1580434702622">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
