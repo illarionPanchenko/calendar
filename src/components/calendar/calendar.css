@@ -1,0 +1,52 @@
+.calendar-layout{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(240,240,247);
+}
+.calendar-name{
+  font-size: 28px;
+    margin-top: 16px;
+    font-family: 'Source Sans Pro', serif;
+    color: #43425D;
+}
+.e-active-view{
+    color: blue;
+}
+.e-work-week{
+    display: none;
+}
+td.e-work-cells{
+    height: 120px;
+}
+.e-header-cells{
+    height: 45px;
+    background-color: #61dafb;
+}
+.e-today{
+    display: none;
+}
+.e-toolbar-right{
+    max-height: 30px;
+    display: flex;
+}
+.e-toolbar-right{
+    display: flex;
+    box-shadow: 0 2px 3px #0000000D;
+    border: 1px solid #D7DAE2;
+    border-radius: 4px;
+    opacity: 1;
+}
+.e-toolbar-items{
+    display: flex;
+}
+.e-subject{
+    background: rgb(59,134,255);
+    border-radius: 4px;
+}
+.e-appointment{
+    background: rgb(59,134,255);
+    border-radius: 40px;
+}
+.e-content-wrap{
+    height: 675px;
+}

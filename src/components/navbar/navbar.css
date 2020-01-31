@@ -1,0 +1,40 @@
+.block{
+    width: 260px;
+    height: 1132px;
+}
+.impekable{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(60,59,83);
+    color: white;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(67,66,93)
+}
+.logo{
+    width: 150px;
+    height: 19px;
+    margin-top: 26px;
+}
+.cellP{
+    margin: 0;
+    color: white;
+    font-family: 'Source Sans Pro', serif;
+}
+.cell{
+    display: flex;
+    align-items: center;
+}
+.cell img{
+    margin: 16px 16px 16px 25px;
+}
+.imgBox{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 16px;
+    height: 16px;
+    margin: 16px 16px 16px 25px;
+}

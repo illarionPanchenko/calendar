@@ -1,0 +1,40 @@
+.header{
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.form-control{
+    padding: 0;
+    height: 70px;
+    width: 60vw;
+    border: 0;
+}
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.Header-Block{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Header-Block-start{
+    height: 70px;
+}
+.blockForIcons{
+    height: 50px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
